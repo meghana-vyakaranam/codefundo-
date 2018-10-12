@@ -7,10 +7,10 @@ India receives a high average rainfall for a country of its size. Sometimes, up 
 THE WORST IMPACTS OF NATURAL DISASTERS
 These events bring with them a host of issues, including humanitarian, public health, environmental and infrastructural problems.
 The main impacts are:
-> Loss of life
-> Economy and livelihood- floods destroy the basic livelihood of people such as farms, livestock, small businesses
-> Health issues-  floods record severe fatalities, injuries and expose many vulnerable to diseases and infections including           military fever, pneumonic plague, dermatopathia and dysentery
-> Property- floods erode houses and infrastructure and a lot of debris is left behind
+- Loss of life
+- Economy and livelihood- floods destroy the basic livelihood of people such as farms, livestock, small businesses
+- Health issues-  floods record severe fatalities, injuries and expose many vulnerable to diseases and infections including           military fever, pneumonic plague, dermatopathia and dysentery
+- Property- floods erode houses and infrastructure and a lot of debris is left behind
 
 
 POSSIBLE SOLUTIONS
